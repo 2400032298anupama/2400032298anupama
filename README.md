@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Gnana Anupama
 
-<!--
-**2400032298anupama/2400032298anupama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | AI & Autonomous Systems
 
-Here are some ideas to get you started:
+💻 Java | Spring Boot | React | SQL  
+🤖 AI/ML | DSA  
+🌱 Currently learning and building real-world projects  
+🚀 Interested in Software Development and AI Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Java
+- Spring Boot
+- React
+- SQL
+- Python
+- AI/ML
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 🚀 Projects
+
+- 🌾 Precision Agriculture Telemetry & Automated Irrigation Platform
+- 🤖 RL Adaptive Path Planning
+- 📚 AI Study Assistant
+- 📰 Fake News Detection
+- 🚗 Lane Tracking
+
+## 📫 Connect With Me
+
+📧 2400032298@kluniversity.in
